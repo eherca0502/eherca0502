@@ -9,8 +9,7 @@
 - 📫 How to reach me **hdze977@gmail.com**
 
 - ⚡ Fun fact **Musica**
-
-<p><img align="left" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/www.facebook.com/ehernandezcampos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="www.facebook.com/ehernandezcampos" height="30" width="40" /></a>
