@@ -1,6 +1,8 @@
 <h1 align="center">Hola 👋, Mi nombre es Eduardo Hernandez</h1>
 <h3 align="center">Soy Estudiante del Instituto Tecnologico Superior de Monclova tengo 24 años</h3>
-<p align="right"> <img src="https://giphy.com/gifs/devrock-code-edr-escueladevrock-du3J3cXyzhj75IOgvA/fullscreen"/> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eherca0502&label=Profile%20views&color=0e75b6&style=flat" alt="eherca0502" /> </p>
 
 - 🌱 I’m currently learning **courses**
