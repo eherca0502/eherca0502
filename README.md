@@ -9,7 +9,7 @@
 - 📫 How to reach me **hdze977@gmail.com**
 
 - ⚡ Fun fact **Musica**
-<picture> <img align="right" src="https://giphy.com/gifs/tecnicageracao-3NE7JhJgZBHlMfmNEa" width = 30px></picture>
+<picture> <img align="right" src="https://giphy.com/gifs/tecnicageracao-3NE7JhJgZBHlMfmNEa" width = 10px></picture>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
