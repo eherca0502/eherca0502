@@ -1,7 +1,6 @@
 <h1 align="center">Hola 👋, Mi nombre es Eduardo Hernandez</h1>
 <h3 align="center">Soy Estudiante del Instituto Tecnologico Superior de Monclova tengo 24 años</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eherca0502&label=Profile%20views&color=0e75b6&style=flat" alt="eherca0502" /> </p>
 
@@ -10,6 +9,9 @@
 - 📫 How to reach me **hdze977@gmail.com**
 
 - ⚡ Fun fact **Musica**
+
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
