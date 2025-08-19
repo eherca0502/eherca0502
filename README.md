@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Mi nombre es Eduardo Hernandez</h1>
-<h3 align="center">Soy Estudiante del Instituto Tecnologico Superior de Monclova tengo 24 años estudio la carrera de Ingenieria Informatica</h3>
+<h3 align="center">Soy recién egresado de la carrera de Ingeniería Informática 26 años </h3>
 
 
 
