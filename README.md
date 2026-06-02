@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./img/banner.png" alt="Eduardo Hernandez Banner" width="100%">
+  <img src="./banner.png" alt="Eduardo Hernandez Banner" width="100%">
 </p>
 
 <h1 align="center">👋 ¡Hola! Soy Eduardo Hernández</h1>
