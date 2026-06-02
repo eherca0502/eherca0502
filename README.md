@@ -2,54 +2,43 @@
   <img src="./banner.png" alt="Eduardo Hernandez Banner" width="100%">
 </p>
 
-<h1 align="center">👋 ¡Hola! Soy Eduardo Hernández</h1>
-
-<h3 align="center">
-💻 Ingeniero Informático | Desarrollador Web | PHP • MySQL • JavaScript
-</h3>
+<h1 align="center">Eduardo Hernández Campos </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eherca0502&label=Visitas&color=0e75b6&style=for-the-badge" />
+  <strong>Software Developer • Web Developer</strong>
+</p>
+
+<p align="center">
+Desarrollo aplicaciones web enfocadas en automatizar procesos y mejorar la operación de negocios.
 </p>
 
 <p align="center">
   <a href="mailto:hdze977@gmail.com">
-    <img src="https://img.shields.io/badge/Email-hdze977%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 
   <a href="https://www.facebook.com/ehernandezcampos">
-    <img src="https://img.shields.io/badge/Facebook-Perfil-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
   </a>
 
   <a href="https://instagram.com/hdze977">
-    <img src="https://img.shields.io/badge/Instagram-@hdze977-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </p>
 
 ---
 
-# 🚀 Sobre mí
+## 💡 About Me
 
-🎓 Recién egresado de la carrera de Ingeniería Informática.
+Soy Ingeniero Informático con interés en el desarrollo de software y aplicaciones web.
 
-💻 Desarrollo aplicaciones web utilizando PHP, MySQL, Bootstrap y JavaScript.
+Me gusta construir soluciones que resuelvan problemas reales, desde sistemas administrativos hasta plataformas web orientadas a negocios. Mi enfoque está en desarrollar aplicaciones funcionales, intuitivas y escalables utilizando tecnologías modernas del ecosistema web.
 
-📚 Actualmente continúo aprendiendo nuevas tecnologías y mejores prácticas de desarrollo.
-
-🏪 He trabajado en proyectos como:
-
-- Sistema para Restaurantes
-- Punto de Venta (POS)
-- Sistema de Inventarios
-- Sistema de Control de Asistencias
-
-🎵 Me gusta la música y la programación.
-
-📫 Contacto: **hdze977@gmail.com**
+Actualmente continúo fortaleciendo mis conocimientos en desarrollo full stack, bases de datos y arquitectura de software.
 
 ---
 
-# 🛠 Tecnologías y Herramientas
+## 🚀 Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,react,nodejs,cs,cpp,dotnet,firebase,git,github,vscode" />
@@ -57,94 +46,55 @@
 
 ---
 
-# 📊 Estadísticas de GitHub
+## 📌 Featured Projects
+
+### 🍕 Restaurant Management System
+
+Sistema web desarrollado para la administración y operación de restaurantes.
+
+**Funciones principales**
+
+- Gestión de pedidos
+- Control de mesas
+- Corte de caja
+- Inventario
+- Control de usuarios y roles
+- Reportes PDF
+- Impresión de tickets
+- Panel administrativo
+
+---
+
+### 🌐 Cyclonova
+
+Sitio web corporativo diseñado para fortalecer la presencia digital de la empresa y presentar sus servicios de forma profesional.
+
+**Características**
+
+- Diseño responsive
+- Optimización para dispositivos móviles
+- Formulario de contacto
+- Interfaz moderna
+- Experiencia de usuario enfocada en conversión
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=eherca0502&show_icons=true&theme=tokyonight" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eherca0502&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=eherca0502&theme=tokyonight" />
-</p>
-
----
-
-# 🏆 Proyectos Destacados
-
-## 🍕 Sistema para Restaurantes
-
-✔ Gestión de pedidos
-
-✔ Control de mesas
-
-✔ Corte de caja
-
-✔ Impresión de tickets
-
-✔ Reportes PDF
-
-✔ Inventario
-
----
-
-## 🛒 Punto de Venta (POS)
-
-✔ Ventas rápidas
-
-✔ Usuarios y roles
-
-✔ Historial de ventas
-
-✔ Reportes
-
-✔ Control de inventario
-
----
-
-## 📦 Sistema de Inventario
-
-✔ Entradas y salidas
-
-✔ Alertas de stock
-
-✔ Gestión de productos
-
-✔ Reportes PDF
-
----
-
-# 🎯 Objetivo Profesional
-
-Seguir creciendo como desarrollador de software y especializarme en aplicaciones web y sistemas empresariales que ayuden a negocios locales a optimizar sus procesos.
-
----
-
-# 🌐 Redes Sociales
-
-<p align="center">
-
-<a href="https://www.facebook.com/ehernandezcampos">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
-</a>
-
-<a href="https://instagram.com/hdze977">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=eherca0502&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eherca0502&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
+## 🎯 Professional Goal
+
+Continuar creciendo como desarrollador de software, participando en proyectos que generen impacto real mediante soluciones tecnológicas innovadoras, eficientes y centradas en el usuario.
+
+---
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eherca0502&theme=tokyonight&row=1&column=6" />
+  <i>"The best way to predict the future is to create it."</i>
 </p>
-
-<h3 align="center">
-⭐ La mejor forma de predecir el futuro es creándolo.
-</h3>
-
-<h4 align="center">
-Gracias por visitar mi perfil 
-</h4>
