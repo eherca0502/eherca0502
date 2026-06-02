@@ -48,7 +48,7 @@ Actualmente continúo fortaleciendo mis conocimientos en desarrollo full stack, 
 
 ## 📌 Featured Projects
 
-### 🍕 Restaurant Management System
+###  Restaurant Management System
 
 Sistema web desarrollado para la administración y operación de restaurantes.
 
@@ -65,7 +65,7 @@ Sistema web desarrollado para la administración y operación de restaurantes.
 
 ---
 
-### 🌐 Cyclonova
+###  Cyclonova
 
 Sitio web corporativo diseñado para fortalecer la presencia digital de la empresa y presentar sus servicios de forma profesional.
 
