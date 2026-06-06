@@ -5,7 +5,7 @@
 <h1 align="center">Eduardo Hernández Campos </h1>
 
 <p align="center">
-  <strong>Software Developer • Web Developer</strong>
+  <strong>Software Developer • Web Applications Developer</strong>
 </p>
 
 <p align="center">
@@ -33,9 +33,7 @@ Desarrollo aplicaciones web enfocadas en automatizar procesos y mejorar la opera
 Soy Ingeniero Informático con interés en el desarrollo de software y aplicaciones web.
 
 Me gusta construir soluciones que resuelvan problemas reales, desde sistemas administrativos hasta plataformas web orientadas a negocios. Mi enfoque está en desarrollar aplicaciones funcionales, intuitivas y escalables utilizando tecnologías modernas del ecosistema web.
-
-Actualmente continúo fortaleciendo mis conocimientos en desarrollo full stack, bases de datos y arquitectura de software.
-
+Actualmente desarrollo proyectos enfocados en automatización de procesos, sistemas administrativos y aplicaciones web, mientras continúo fortaleciendo mis conocimientos en desarrollo full stack y arquitectura de software.
 ---
 
 ## 🚀 Tech Stack
