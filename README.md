@@ -28,7 +28,7 @@ Desarrollo aplicaciones web enfocadas en automatizar procesos y mejorar la opera
 
 ---
 
-## 💡 About Me
+## Sobre mi
 
 Soy Ingeniero Informático con interés en el desarrollo de software y aplicaciones web.
 
@@ -36,7 +36,7 @@ Me gusta construir soluciones que resuelvan problemas reales, desde sistemas adm
 Actualmente desarrollo proyectos enfocados en automatización de procesos, sistemas administrativos y aplicaciones web, mientras continúo fortaleciendo mis conocimientos en desarrollo full stack y arquitectura de software.
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,react,nodejs,cs,cpp,dotnet,firebase,git,github,vscode" />
@@ -44,7 +44,7 @@ Actualmente desarrollo proyectos enfocados en automatización de procesos, siste
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
 ###  Restaurant Management System
 
@@ -79,7 +79,7 @@ Sitio web corporativo diseñado para fortalecer la presencia digital de la empre
 
 
 
-## 🎯 Professional Goal
+##  Professional Goal
 
 Continuar creciendo como desarrollador de software, participando en proyectos que generen impacto real mediante soluciones tecnológicas innovadoras, eficientes y centradas en el usuario.
 
