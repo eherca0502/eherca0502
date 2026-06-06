@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Eduardo Hernandez Banner" width="100%">
+  <img src="./bedu.png" alt="Eduardo Hernandez Banner" width="100%">
 </p>
 
 <h1 align="center">Eduardo Hernández Campos </h1>
