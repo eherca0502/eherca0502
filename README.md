@@ -114,21 +114,6 @@ Continúo desarrollando mis conocimientos en:
 
 ---
 
-## 📫 Contacto
-
-<p align="center">
-  <a href="mailto:hdze977@gmail.com">
-    <img src="https://img.shields.io/badge/Correo-Contacto-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo electrónico">
-  </a>
-  <a href="https://www.facebook.com/ehernandezcampos">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-  </a>
-  <a href="https://instagram.com/hdze977">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-</p>
-
----
 
 <p align="center">
   <i>“La mejor forma de predecir el futuro es crearlo.”</i>
